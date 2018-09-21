@@ -1,9 +1,7 @@
 # cloudflare-ddns
 Cloudflare DYNDNS update script
 
-It runs perfect on linux/mac/windows.
-
-Tested on MAC OSX 10.10 and CentOS 7.
+Works with Windows - macOS - Linux
 
 I use it along with crontab to run every 5 minutes.
 
